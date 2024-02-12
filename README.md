@@ -5,15 +5,22 @@ Friday is a Python-based conversational AI assistant designed to interact with y
 Features:
 
 Speech Recognition: Utilizes speech_recognition to convert your spoken commands into text.
+
 ChatGPT Integration: Leverages OpenAI's API to access the powerful ChatGPT 3 model for more complex language understanding and responses.
+
 Basic Voice Assistant Features: Responds to prompts like "open chrome," "open google," "what's my battery percentage," and provides relevant information.
+
 Customizable Voice (Male/Female): Allows you to choose the voice type for Friday using pyttsx3.
 Setup:
 
 Install required libraries: pip install speech_recognition, webbrowser, os, pyttsx3, openai
+
 Replace "Your api key for chatgpt" with your own OpenAI API key.
+
 Adjust the folder_path variable in open_chrome() to match your Chrome shortcut location.
+
 Run the script: python main.py
+
 Code Overview:
 
 Python
