@@ -6,7 +6,7 @@ import openai
 import psutil
 
 #esting the chatgpt api
-api_key = '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'
+api_key = 'Your api key for chatgpt'
 openai.api_key=api_key
 
 #estding the speak "male"
