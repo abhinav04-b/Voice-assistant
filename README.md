@@ -53,3 +53,4 @@ def open_chrome():
 
 if __name__ == "__main__":
     convert_audio_to_text()
+*You may edit this file but responsibly*
